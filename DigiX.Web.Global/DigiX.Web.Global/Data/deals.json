@@ -1,0 +1,31 @@
+﻿[
+  {
+    "dealsId": 1,
+    "dealsTypeId": 1,
+    "leastItems": 3,
+    "isMultipliable": true,
+    "totalItemsCut": 1,
+    "note": "3 for 2 deals"
+  },
+  {
+    "dealsId": 2,
+    "dealsTypeId": 2,
+    "leastItems": 5,
+    "isMultipliable": false,
+    "priceCut": 50,
+    "note": "Discount for more than 4 units"
+  },
+  {
+    "dealsId": 3,
+    "dealsTypeId": 3,
+    "leastItems": 1,
+    "isMultipliable": true,
+    "freeProducts": [
+      {
+        "productId": 4,
+        "total": 1
+      }
+    ],
+    "note": "Free one VGA Adapter"
+  }
+]

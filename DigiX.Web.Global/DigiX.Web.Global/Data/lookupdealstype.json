@@ -1,0 +1,17 @@
+﻿[
+  {
+    "dealsTypeId": 1,
+    "name": "Cut Same Item (#)",
+    "description": "something"
+  },
+  {
+    "dealsTypeId": 2,
+    "name": "Price cut per item ($)",
+    "description": "something"
+  },
+  {
+    "dealsTypeId": 3,
+    "name": "Free Other Items (#)",
+    "description": "something"
+  }
+]
